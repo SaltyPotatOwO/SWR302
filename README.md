@@ -6,3 +6,5 @@ Link cross review cho nhóm 5 (Minh review cho nhom 5): https://docs.google.com/
 Link cross review cho nhom 4 (Nhom 3 review cho minh) : https://docs.google.com/spreadsheets/d/1IU2MXTulKv3KgUe36RZb6DEkyz4ke1HJ0opgpi8Ka2g/edit?usp=sharing
 
 Link self review (tự mình review cho thành viên mình) : https://docs.google.com/spreadsheets/d/167rOy2x5EZzUPwh6Qm1YlcUaOdvD5V0YPGMGIvSn-Ao/edit?usp=sharing
+
+Link explaination (sau khi được review và sửa file viết giải thích vào file này ) : https://docs.google.com/document/d/1q65NgixwzgfvCoHCiSurin2itL1xKM2RFQEcBwQ0PrM/edit
